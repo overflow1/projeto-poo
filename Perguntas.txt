@@ -1,0 +1,1 @@
+É possível alterar a Descrição de um produto no comando alterar?
